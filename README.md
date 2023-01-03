@@ -1,4 +1,4 @@
-# Meal - A healthy and high-quailty meals delivery app alternative
+# Meal - High-quailty meals delivery app alternative
 Connect with a local chef and order your favourite meal in seconds! 
 
 <!-- Project Images -->
