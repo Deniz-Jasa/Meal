@@ -65,7 +65,7 @@ Alternatively, you can run the android application locally through an emulator (
 
 Below is how to run the Meal android application locally through an emulator in Android Studio. 
 
-1. Clone the repo
+1. Clone the repo (this will preserve the firebase connection for backend data handling)
    ```sh
    git clone https://github.com/Deniz-Jasa/Meal.git
    ```
