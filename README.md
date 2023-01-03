@@ -30,9 +30,9 @@ Connect with a local chef and order your favourite meal in seconds!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Meal was a group project for my Intro. to Software Engineering course (SEG 2105) at the University of Ottawa where myself and my team was tasked to create create an app in the food delivery market. Our team quickly regonized that creating yet another food delivery app would be too repetive and vanilla. 
+Meal was a group project for my Introduction to Software Engineering course (SEG 2105) at the University of Ottawa where my team and I were tasked with creating an app in the food delivery market. We quickly recognized that creating yet another food delivery app would be repetitive and frankly vanilla.
 
-We noticed that popular delivery apps were already fast, accesible, and easy which is something we wanted to implement as well. However, from our personal experiences the quality was primarily fast food and unhealthy choices. Thats when we though of Meal! Meal guarantees fresh ingredients, high-quality meals, and professional chefs, making it easier for customers to access only healthier and home-cooked meals options.
+We noticed that popular delivery apps were already fast, accessible, and easy, which is something we wanted to implement as well. However, from our personal experiences, the quality was primarily fast food and unhealthy choices. That's when we thought of Meal! Meal guarantees fresh ingredients, high-quality meals, and professional chefs, making it easier for customers to access healthier and home-cooked meal options only. Meal connects hungry folks with a local chef!
 
 ### Tech Stack
 
