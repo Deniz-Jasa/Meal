@@ -1,12 +1,6 @@
 # Meal - High-quailty meals delivery app alternative
 Connect with a local chef and order your favourite meal in seconds! 
 
-<!-- Project Images -->
-![Group 1691](https://user-images.githubusercontent.com/46465622/210444134-37fadb6d-1679-4620-b2a7-b9631ed25e48.gif)
-&nbsp;
-<img width="2016" alt="2" src="https://user-images.githubusercontent.com/46465622/210443695-00b5d03a-42a4-4363-8c16-8c6809b21a57.png">
-&nbsp;
-<img width="2009" alt="3" src="https://user-images.githubusercontent.com/46465622/210443702-f4dfa641-000f-4542-8bd3-7748b1d76ca2.png">
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -30,6 +24,17 @@ Connect with a local chef and order your favourite meal in seconds!
 </details>
 
 <!-- ABOUT THE PROJECT -->
+## What is Meal?
+
+<!-- Project Images -->
+![Group 1691](https://user-images.githubusercontent.com/46465622/210444134-37fadb6d-1679-4620-b2a7-b9631ed25e48.gif)
+&nbsp;
+<img width="2016" alt="2" src="https://user-images.githubusercontent.com/46465622/210443695-00b5d03a-42a4-4363-8c16-8c6809b21a57.png">
+&nbsp;
+<img width="2009" alt="3" src="https://user-images.githubusercontent.com/46465622/210443702-f4dfa641-000f-4542-8bd3-7748b1d76ca2.png">
+
+
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Meal was a group project for my Introduction to Software Engineering course (SEG 2105) at the University of Ottawa where my team and I were tasked with creating an app in the food delivery market. We quickly recognized that creating yet another food delivery app would be repetitive and frankly vanilla.
@@ -39,7 +44,7 @@ We noticed that popular delivery apps were already fast, accessible, and easy, w
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-</br>![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 
 <!-- GETTING STARTED -->
