@@ -86,7 +86,7 @@ Below is how to run the Meal android application locally through an emulator in 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions: Iaroslav Volkov, Deniz Jasarbasic, Matteo Torlone, and Evgeny Smirnov.
+Contributions: [Iaroslav Volkov](https://github.com/yarovolk18), [Deniz Jasarbasic](https://github.com/Deniz-Jasa), [Matteo Torlone](https://github.com/Matteo2929), and [Evgeny Smirnov](https://github.com/gendos1sm).
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
