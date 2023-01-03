@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_register_cook.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_register_cook.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_cook_home.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_cook_home.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_view_meals.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_view_meals.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_register_client.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_register_client.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_view_complaints.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_view_complaints.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_client_home.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_client_home.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_up_load_void_cheque.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_up_load_void_cheque.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_add_meals.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_add_meals.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/content_scrolling.xml",
+        "source": "com.example.mealerapp-main-35:/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_order_view_client.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_order_view_client.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_admin_home.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_view_orders.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_view_orders.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_make_complaint.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_make_complaint.xml"
+    },
+    {
+        "merged": "com.example.mealerapp-mergeDebugResources-32:/layout/activity_order_meal.xml",
+        "source": "com.example.mealerapp-main-35:/layout/activity_order_meal.xml"
+    }
+]
