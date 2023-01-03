@@ -3,7 +3,9 @@ Connect with a local chef and order your favourite meal in seconds!
 
 <!-- Project Images -->
 ![Group 1691](https://user-images.githubusercontent.com/46465622/210444134-37fadb6d-1679-4620-b2a7-b9631ed25e48.gif)
+&nbsp;
 <img width="2016" alt="2" src="https://user-images.githubusercontent.com/46465622/210443695-00b5d03a-42a4-4363-8c16-8c6809b21a57.png">
+&nbsp;
 <img width="2009" alt="3" src="https://user-images.githubusercontent.com/46465622/210443702-f4dfa641-000f-4542-8bd3-7748b1d76ca2.png">
 
 <!-- TABLE OF CONTENTS -->
